@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Piyu_Web/static/css/main.dc4d6ff2.css",
+    "main.js": "/Piyu_Web/static/js/main.a5ef7e6a.js",
+    "static/js/787.ecb35e1a.chunk.js": "/Piyu_Web/static/js/787.ecb35e1a.chunk.js",
+    "index.html": "/Piyu_Web/index.html",
+    "main.dc4d6ff2.css.map": "/Piyu_Web/static/css/main.dc4d6ff2.css.map",
+    "main.a5ef7e6a.js.map": "/Piyu_Web/static/js/main.a5ef7e6a.js.map",
+    "787.ecb35e1a.chunk.js.map": "/Piyu_Web/static/js/787.ecb35e1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.a5ef7e6a.js"
+  ]
+}
